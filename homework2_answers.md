@@ -4,3 +4,18 @@
 
 
 // commit 1st //
+
+
+
+// 2 set of questions // 
+
+1. git clone
+2. git reset
+3. git --hard
+4. It removes and reverts back to its previous state.
+5. To fix a simple or complex error.
+
+// commit 2nd //
+
+
+
