@@ -18,4 +18,14 @@
 // commit 2nd //
 
 
+// 3rd set of questions // 
+
+1. git checkout --[remotename]/[branch]
+2. git checkout -b hotfix
+3. To be able to work on different parts of the project and not alter other branches.
+
+// commit 3rd // 
+
+
+
 
