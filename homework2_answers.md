@@ -27,5 +27,13 @@
 // commit 3rd // 
 
 
+// 4th set of questions // 
+
+1. git merge can be used when you are ready to apply that branch to the master branch. It would be better to s$
+2. git push origin master
+
+// commit 4th  //
+
+
 
 
