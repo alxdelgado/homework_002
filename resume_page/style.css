@@ -3,14 +3,30 @@ h1 {
 
 }
 
-img {
 
-  border-radius: 10px;
+.navbar {
+
+  background-color: yellow;
+  max-width: 30%;
+  text-align: center;
+  
+
+
 
 }
 
-#navbar {
+body {
 
-  background-color: yellow;
+max-width: 0 auto;
+
+
+}
+
+img {
+
+  /*border-radius: 10px;*/
+  max-width: : 200px;
+  max-height: 200px;
+  
 
 }
